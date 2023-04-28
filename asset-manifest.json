@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0efc278e.css",
+    "main.js": "/static/js/main.c18da24c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/NWS-003.png": "/static/media/NWS-003.bd5d79bb215e5de3158a.png",
+    "static/media/NWS-002.png": "/static/media/NWS-002.22ebc8ea90c1d37e4c06.png",
+    "static/media/Rkn-MainMenu.png": "/static/media/Rkn-MainMenu.7f4f86a649dfb8f99f3e.png",
+    "static/media/NWS-001.png": "/static/media/NWS-001.37b99f41826856c950a8.png",
+    "static/media/MingleTube-002.png": "/static/media/MingleTube-002.c929f4625e5b6d23da03.png",
+    "static/media/MingleTube-003.png": "/static/media/MingleTube-003.88999ee883dfdabc3eb1.png",
+    "static/media/FrontWisp.png": "/static/media/FrontWisp.abe2bcf8fe0d3118ecea.png",
+    "static/media/Wisp-Code.png": "/static/media/Wisp-Code.e71cb8737494b9dc59e2.png",
+    "static/media/Rkn-CateringSalesPoint.png": "/static/media/Rkn-CateringSalesPoint.47fe707bf40962f4d2c0.png",
+    "static/media/NukodeWebsite.jpg": "/static/media/NukodeWebsite.810316bf1b6078a484ff.jpg",
+    "static/media/Rkn-CateringSalesList.png": "/static/media/Rkn-CateringSalesList.981051581b1515701326.png",
+    "static/media/Rkn-Stats.png": "/static/media/Rkn-Stats.cab79d33a17fe7838343.png",
+    "static/media/MingleTube-004.png": "/static/media/MingleTube-004.c41e3b8cb9f60c9c0b32.png",
+    "static/media/WispGUI-001.webp": "/static/media/WispGUI-001.53e9f07a9159f1e526d3.webp",
+    "static/media/WispGUI-002.webp": "/static/media/WispGUI-002.32696fd36f49e9525a4f.webp",
+    "static/media/Rkn-RepairOrdersList.png": "/static/media/Rkn-RepairOrdersList.c5a51586f5daee12ff8d.png",
+    "static/media/Rkn-ProductList.png": "/static/media/Rkn-ProductList.02fc011d39a8a4e34684.png",
+    "static/media/WispGUI-003.webp": "/static/media/WispGUI-003.7ef158373fbd6eb33dbd.webp",
+    "static/media/MingleTube-001.png": "/static/media/MingleTube-001.8d366f6c0be073e279a7.png",
+    "static/media/WispGUI-006.webp": "/static/media/WispGUI-006.3e813aa3733a342f35f1.webp",
+    "static/media/WispGUI-005.webp": "/static/media/WispGUI-005.d55d07d7537aedc60ca5.webp",
+    "static/media/WispGUI-004.webp": "/static/media/WispGUI-004.9ff8b368365c1240ebd3.webp",
+    "index.html": "/index.html",
+    "main.0efc278e.css.map": "/static/css/main.0efc278e.css.map",
+    "main.c18da24c.js.map": "/static/js/main.c18da24c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0efc278e.css",
+    "static/js/main.c18da24c.js"
+  ]
+}
